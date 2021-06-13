@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "hafiza_oyunu_final_odev"
